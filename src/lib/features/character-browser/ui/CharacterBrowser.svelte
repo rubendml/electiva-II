@@ -9,9 +9,9 @@
 
 <section class="hero">
 	<div class="eyebrow">SvelteKit · Rick and Morty</div>
-	<h1>Arquitectura frontend lista para crecer sin mezclar UI con negocio.</h1>
+	<h1>Ruben Dario Monroy Leon.</h1>
 	<p>
-		Base feature-first/domain-first con contratos claros entre pantalla, dominio y API.
+		Este es un texto de prueba de cambios en el proyecto.
 	</p>
 </section>
 
@@ -39,8 +39,8 @@
 		display: inline-flex;
 		padding: 0.4rem 0.75rem;
 		border-radius: 999px;
-		background: rgba(78, 205, 196, 0.12);
-		color: #7ef0e3;
+		background: rgba(37, 63, 214, 0.38);
+		color: #1f3a8a;
 		font-size: 0.8rem;
 		letter-spacing: 0.08em;
 		text-transform: uppercase;
@@ -56,7 +56,7 @@
 	p {
 		max-width: 60ch;
 		margin: 0;
-		color: rgba(15, 28, 46, 0.65);
+		color: rgba(15, 28, 46, 0.78);
 		font-size: 1.03rem;
 	}
 

@@ -1,8 +1,8 @@
 <svelte:head>
-	<title>Prueba Lectiva</title>
+	<title>Ruben Dario Monroy Leon</title>
 	<meta
 		name="description"
-		content="Base SvelteKit con arquitectura feature-first/domain-first para integrar Rick and Morty."
+		content="Proyecto personalizado de Ruben Dario Monroy Leon desplegado con SvelteKit y GitHub Pages."
 	/>
 </svelte:head>
 
@@ -20,9 +20,9 @@
 		font-family:
 			Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 		background:
-			radial-gradient(circle at top, rgba(78, 205, 196, 0.12), transparent 35%),
+			radial-gradient(circle at top, rgba(241, 245, 38, 0.82), transparent 35%),
 			linear-gradient(180deg, #ffffff 0%, #f4f7fb 100%);
-		color: #0f1c2e;
+		color: #1f2937;
 		min-height: 100vh;
 	}
 
